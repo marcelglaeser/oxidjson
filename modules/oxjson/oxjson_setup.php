@@ -20,6 +20,9 @@
  * @copyright (C) shoptimax GmbH 2013
  * @version 1.0.0
  */
+
+namespace Shoptimax\OxJson;
+
 class oxjson_setup extends oxSuperCfg {
 
     /**
