@@ -1,6 +1,17 @@
 {
-    "require": {
-        "peej/tonic": "dev-master"
+  "name": "shoptimax/oxidjson",
+  "description": "REST/JSON interface for the OXID eShop with AngularJS frontend for testing.",
+  "type": "oxideshop-module",
+  "keywords": ["oxid", "modules", "rest", "json"],
+  "license": [
+    "GPL-2.0"
+  ],
+  "require" : {
+    "peej/tonic": "dev-master"
+  },
+  "extra": {
+    "oxideshop": {
+      "target-directory": "shoptimax/oxidjson"
     }
+  }
 }
-
