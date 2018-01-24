@@ -21,7 +21,7 @@
  * @version 1.0.0
  */
 
-namespace Shoptimax\OxJson;
+namespace Shoptimax\OxidJson;
 
 class oxjson_setup extends oxSuperCfg {
 
